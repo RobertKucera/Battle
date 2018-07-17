@@ -29,4 +29,7 @@ capture the flag by crossing it with a vehicle for a money bonus
 Get vehicles to the opposing HQ to capture and win the game.
 player is on the left side.
 
+Game is set to normal difficultly
+And can be made harder to easier by changing the code.
+
 Enjoy!

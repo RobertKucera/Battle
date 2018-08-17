@@ -2,7 +2,7 @@ Robert Kucera Jr
 # Battle
 A simple game in java
 
-Too run I have Java installed on my computer. You'll need the whole folder titled "Battle" and you'll need to navigate 
+To run I have Java installed on my computer. You'll need the whole folder titled "Battle" and you'll need to navigate 
 to the root folder.  With Java installed you will then type: java Battle
 
 This will begin the game.
